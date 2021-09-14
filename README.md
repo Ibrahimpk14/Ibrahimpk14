@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-  🌱 I’m currently result**Competitive programming in [stopstalk](https://www.stopstalk.com/user/profile/Emon_cste14)
+  🌱 My current result**Competitive programming in [stopstalk](https://www.stopstalk.com/user/profile/Emon_cste14)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
